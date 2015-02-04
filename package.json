@@ -1,0 +1,22 @@
+{
+  "name": "RPiBeaconServer",
+  "version": "0.1.0",
+  "description": "Server to listen for the RPiBeacon data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RPiBeacon/RPiBeaconServer.git"
+  },
+  "author": "Mattia Asti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RPiBeacon/RPiBeaconServer/issues"
+  },
+  "homepage": "https://github.com/RPiBeacon/RPiBeaconServer",
+  "dependencies": {
+    "hapi": "^8.1.0"
+  }
+}
